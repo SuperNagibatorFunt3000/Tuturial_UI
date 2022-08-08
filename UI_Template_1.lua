@@ -1,4 +1,6 @@
+-- Ссылка на Библиотеку
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/UI-Library/main/Library.lua"))()
+
 В данный момент стоит тема "RJTheme3"
 Можно использовать любую из других тем приведённых ниже
 "RJTheme1"
